@@ -1,0 +1,5 @@
+<ConfigurationFragment>
+   <VMArg name="-Dcom.axway.sso.domain.name=engieenergia.com.br" />
+   <VMArg name="-Dapi.manager.orgadmin.selfservice.enabled=true"/>
+   <VMArg name="-Dcom.axway.apigw.sso.authorization=OFF"/>
+</ConfigurationFragment>
